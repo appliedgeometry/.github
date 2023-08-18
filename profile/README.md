@@ -29,7 +29,8 @@ _____
  * *Eduardo Velázquez-Richars* **([@V3du4rd0](https://github.com/V3du4rd0))**
  * *Miguel Evangelista-Alvarado* **([@mevangelista-alvarado](https://github.com/mevangelista-alvarado))**
 
-_____
+_____  
+
 <p align="center">
   <img src="https://github.com/appliedgeometry/.github/assets/28746720/5a21175f-0397-4b39-afc2-4fa5614648f8">
        
