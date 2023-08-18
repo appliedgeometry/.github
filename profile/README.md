@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="https://avatars.githubusercontent.com/u/57973110?s=400&u=0eaba53235f986d782982683c1c9392154d7419d&v=4">
+</p>
+
 #  Applied Geometry Laboratory
 
 ## ¡Welcome!
@@ -26,3 +30,14 @@ _____
  * *Miguel Evangelista-Alvarado* **([@mevangelista-alvarado](https://github.com/mevangelista-alvarado))**
 
 _____
+<p align="center">
+  <img src="https://github.com/appliedgeometry/.github/assets/28746720/5a21175f-0397-4b39-afc2-4fa5614648f8">
+       
+  <img src="https://github.com/appliedgeometry/.github/assets/28746720/81cb4cba-71b9-46af-a323-46d9035978d6">
+       
+  <img src="https://www.matmor.unam.mx/themes/custom/basis/img/logos-footer-ccm.png">
+
+  <img src="https://github.com/appliedgeometry/.github/assets/28746720/13af1203-a560-4813-975e-425a141919ab">
+</p>
+
+
