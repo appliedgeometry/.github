@@ -14,7 +14,7 @@ _____
 
  * *Pablo Suárez-Serrato* **([@psuarezserrato](https://github.com/psuarezserrato)) --> IM-UNAM**
  * *Eduardo Velázquez-Richars* **([@V3du4rd0](https://github.com/V3du4rd0)) --> CIMAT**
- * *Haydee Peruyero* **([@V3du4rd0](https://github.com/HaydeePeruyero)) --> CCM UNAM**   
+ * *Haydee Peruyero* **([@HaydeePeruyero](https://github.com/HaydeePeruyero)) --> CCM UNAM**   
  * *Miguel Evangelista-Alvarado* **([@mevangelista-alvarado](https://github.com/mevangelista-alvarado)) --> URC**
  * *Anayanzi Martínez* **([@anayanz1Mh](https://github.com/anayanz1Mh)) --> IM-UNAM**
  * *Rodrigo Friz* **([@Fritz-Rodrigo](https://github.com/Fritz-Rodrigo)) --> IM-UNAM**
