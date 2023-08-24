@@ -6,7 +6,8 @@
 
 ## ¡Welcome!
 
-A short description about Applied Geometry Laboratory
+The Applied Geometry Laboratory is an open collective of individuals who form teams that apply Geometry.
+We started at Instituto de Matemáticas UNAM in Mexico City, and have now continued our collaborations while working at several instutitions in Mexico. 
 
 _____
 
